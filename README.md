@@ -15,7 +15,6 @@ Organizations need effective recruitment and screening strategies to identify ca
 - Identify important factors associated with job-change predictions
 - Generate recruitment insights and recommendations
 - Develop a recruitment dashboard
-- (Bonus) Build a candidate ranking system
 
 ##  Dataset
 
